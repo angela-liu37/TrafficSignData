@@ -1,2 +1,2 @@
 # TrafficSignData
-# 本数据集由武汉大学印刷与包装系 Vision and Cognition Lab 建立
+# This Dataset is built by Vision and Cognition Lab(VCL), Department of printing and packaging, Wuhan University.

@@ -1,1 +1,1 @@
-# ½ûÖ¹Ö±ÐÐ
+# Prohibiting Straight 

@@ -1,1 +1,1 @@
-# ╫Шж╧срв╙
+# No Right Turn
