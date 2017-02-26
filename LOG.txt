@@ -5,15 +5,14 @@ ZhangXu JiMinZhi
 
 
 
-
-BEGINNING
+TOTAL
 1 Sharp Turn: 0
 2 Tunnel: 0
 3 Railway: 0
 4 Upslope: 0
 5 Downslope: 12
 6 No U-Turn: 11
-7 No Honking: 59
+7 No Honking: 65
 8 Traffic Limit: 4
 9 NO Parking: 0
 10 No Left Turn: 26
@@ -21,3 +20,4 @@ BEGINNING
 12 Prohibiting Straight: 0
 13 Minimum Speed Limit: 0
 14 Maximum Speed Limit: 46
+15 Caution Pedestrian: 32
