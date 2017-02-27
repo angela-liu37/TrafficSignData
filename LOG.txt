@@ -14,12 +14,16 @@ ZhangXu JiMinZhi
 =======
 
 
+<<<<<<< HEAD
 >>>>>>> parent of 2a586a2... JMZ-2017.2.26(2)
 
 BEGINNING
 =======
 
 
+TOTAL
+>>>>>>> refs/remotes/CheungXu/master
+=======
 TOTAL
 >>>>>>> refs/remotes/CheungXu/master
 1 Sharp Turn: 0
@@ -30,6 +34,7 @@ TOTAL
 6 No U-Turn: 11
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 7 No Honking: 283
 =======
 7 No Honking: 65
@@ -37,12 +42,16 @@ TOTAL
 =======
 7 No Honking: 59
 >>>>>>> parent of 2a586a2... JMZ-2017.2.26(2)
+=======
+7 No Honking: 65
+>>>>>>> refs/remotes/CheungXu/master
 8 Traffic Limit: 4
 9 NO Parking: 0
 10 No Left Turn: 26
 11 No Right Turn: 9
 12 Prohibiting Straight: 0
 13 Minimum Speed Limit: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 14 Maximum Speed Limit: 46
 <<<<<<< HEAD
@@ -54,3 +63,7 @@ TOTAL
 =======
 14 Maximum Speed Limit: 46
 >>>>>>> parent of 2a586a2... JMZ-2017.2.26(2)
+=======
+14 Maximum Speed Limit: 46
+15 Caution Pedestrian: 32
+>>>>>>> refs/remotes/CheungXu/master
