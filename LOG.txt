@@ -3,21 +3,54 @@ ZhangXu JiMinZhi
 7 No Honking  +6  60~65
 15 Caution Pedestrian  +32  1~32
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+JMZ-2017.2.26
+ZhangXu JiMinZhi
+7 No Honking  +218  65~283
+9 NO Parking  +238  1~238
+15 Caution Pedestrian  +234  33~266
+16 Construction  +120  1~120
+=======
 
 
+>>>>>>> parent of 2a586a2... JMZ-2017.2.26(2)
 
 BEGINNING
+=======
+
+
+TOTAL
+>>>>>>> refs/remotes/CheungXu/master
 1 Sharp Turn: 0
 2 Tunnel: 0
 3 Railway: 0
 4 Upslope: 0
 5 Downslope: 12
 6 No U-Turn: 11
+<<<<<<< HEAD
+<<<<<<< HEAD
+7 No Honking: 283
+=======
+7 No Honking: 65
+>>>>>>> refs/remotes/CheungXu/master
+=======
 7 No Honking: 59
+>>>>>>> parent of 2a586a2... JMZ-2017.2.26(2)
 8 Traffic Limit: 4
 9 NO Parking: 0
 10 No Left Turn: 26
 11 No Right Turn: 9
 12 Prohibiting Straight: 0
 13 Minimum Speed Limit: 0
+<<<<<<< HEAD
 14 Maximum Speed Limit: 46
+<<<<<<< HEAD
+15 Caution Pedestrian: 266
+16 Construction: 120
+=======
+15 Caution Pedestrian: 32
+>>>>>>> refs/remotes/CheungXu/master
+=======
+14 Maximum Speed Limit: 46
+>>>>>>> parent of 2a586a2... JMZ-2017.2.26(2)
